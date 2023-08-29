@@ -14,10 +14,56 @@
   
 <div align="center"><img src="https://patrulhasolutions.com.br/wp-content/uploads/2022/04/cropped-logo-1.png" style="width: 80% !important;"></div>
 
-## Criando conteúdo necessário
+## Preparando instalação e conteúdo:
+
+Instalação Chatwoot Atualizada
+
+Ubuntu 22
+
+    sudo apt update && apt upgrade -y
+
+Reiniciar a maquina: 
+
+    init 6
+
+
+yes
+
+chat.seudominio.cloud
+
+seuemail@gmail.com
+
+yes
+
+yes
+
+## Conteúdo para a instalação:
+
+Crie 2 Key no link a baixo:
+
+Gerador de Keyhttps://codebeautify.org/generate-random-hexadecimal-numbers
+
+
+/// Preparação dos domínios a serem aplicados
+
+1.seudominio.com => 15.115.115.115  8080  (API TYPEBOT) -  Key *****************************************
+
+2.seudominio.com => 15.115.115.115 (BUILDER TYPEBOT)
+
+3.seudominio.com => 15.115.115.115 (VIEWER TYPEBOT)
+
+4.seudominio.com => 15.115.115.115 (STORAGE TYPEBOT)
+
+Key ***************************************** | TYPEBOT MAIL
+GLOBAL API Key *****************************************
+                                          
 
 
 
+Configuração do Email Provisório
+
+seuemail@gmail.com
+Senha app gmail = wohzyywsthswhrzs
 
 
 
