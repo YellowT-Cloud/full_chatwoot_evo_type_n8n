@@ -27,6 +27,15 @@ Reiniciar a maquina:
     init 6
 
 
+Baixe o repositório para sua VPS:
+
+    git clone https://github.com/PatrulhaSolutions/full_chatwoot_evo_type_n8n.git
+
+Execute o comando a baixo:
+
+    cd full_chatwoot_evo_type_n8n/InstallChatWootFull && chmod +x chatwoot_evo_type_n8n_full.sh && ./chatwoot_evo_type_n8n_full.sh
+
+
 yes
 
 chat.seudominio.cloud
@@ -68,17 +77,6 @@ Configuração do Email Provisório
 seuemail@gmail.com
 
 Senha app gmail = wohzyywsthswhrzs
-
-
-
-
-Baixe o repositório para sua VPS:
-
-    git clone https://github.com/PatrulhaSolutions/full_chatwoot_evo_type_n8n.git
-
-Execute o comando a baixo:
-
-    cd full_chatwoot_evo_type_n8n/InstallChatWootFull && chmod +x chatwoot_evo_type_n8n_full.sh && ./chatwoot_evo_type_n8n_full.sh
 
 
 ## Consultoria e contato:
