@@ -26,7 +26,7 @@
 
 git clone https://github.com/PatrulhaSolutions/full_chatwoot_evo_type_n8n.git
 
-cd full_chatwoot_evo_type_n8n/InstallChatWootFull && chmod +x chatwoot_evo_type_n8n_full.sh && ./chatwoot_evo_type_n8n_full.sh
+cd full_chatwoot_evo_type_n8n-main/InstallChatWootFull && chmod +x chatwoot_evo_type_n8n_full.sh && ./chatwoot_evo_type_n8n_full.sh
 
 
 ## Consultoria e contato:
