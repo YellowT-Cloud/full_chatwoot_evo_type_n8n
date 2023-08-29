@@ -55,6 +55,7 @@ Gerador de Keyhttps://codebeautify.org/generate-random-hexadecimal-numbers
 4.seudominio.com => 15.115.115.115 (STORAGE TYPEBOT)
 
 Key ***************************************** | TYPEBOT MAIL
+
 GLOBAL API Key *****************************************
                                           
 
@@ -63,6 +64,7 @@ GLOBAL API Key *****************************************
 Configuração do Email Provisório
 
 seuemail@gmail.com
+
 Senha app gmail = wohzyywsthswhrzs
 
 
