@@ -46,6 +46,8 @@ Gerador de Keyhttps://codebeautify.org/generate-random-hexadecimal-numbers
 
 /// Preparação dos domínios a serem aplicados
 
+n8n: seudominio.com (PARA N8N)
+
 1.seudominio.com => 15.115.115.115  8080  (API TYPEBOT) -  Key *****************************************
 
 2.seudominio.com => 15.115.115.115 (BUILDER TYPEBOT)
